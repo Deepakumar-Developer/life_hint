@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375821209917",
+    "project_id": "my-life-hint",
+    "storage_bucket": "my-life-hint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375821209917:android:ace2a209e6ee7f536d7554",
+        "android_client_info": {
+          "package_name": "com.deepakumar452005.notes_hint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFevOf3Qhu9vU_fBVUm4a3TAgBy5HANE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
